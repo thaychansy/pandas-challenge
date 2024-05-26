@@ -1,6 +1,6 @@
 # pandas-challenge
 
-[<img width="394" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/43f02b02-074e-449b-832f-471106ecd346">](https://github.com/thaychansy/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.pdf)
+[<img width="394" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/43f02b02-074e-449b-832f-471106ecd346">](https://github.com/thaychansy/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.ipynb)
 
 
 
