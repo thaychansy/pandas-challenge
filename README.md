@@ -8,6 +8,9 @@ Using Pandas and Jupyter Notebook, create a report that includes the following d
 
 Hint: Check out the sample solution called ``PyCitySchools_starter.ipynb`` located in the .zip file to review the desired format for this assignment.
 
+<img width="408" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/6cf09e32-7672-4ef8-8d37-5f8918bed3f6">
+
+
 # District Summary
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 
