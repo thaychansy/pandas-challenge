@@ -1,6 +1,7 @@
 # pandas-challenge
 
-[<img width="400" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/2907accd-2616-4929-9b59-65ffaaedb2ff">](https://github.com/thaychansy/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.pdf)
+[<img width="394" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/43f02b02-074e-449b-832f-471106ecd346">](https://github.com/thaychansy/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.pdf)
+
 
 
 
@@ -11,6 +12,7 @@ Using Pandas and Jupyter Notebook, create a report that includes the following d
 Hint: Check out the sample solution called ``PyCitySchools_starter.ipynb`` located in the .zip file to review the desired format for this assignment.
 
 <img width="408" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/6cf09e32-7672-4ef8-8d37-5f8918bed3f6">
+
 
 
 # District Summary
