@@ -3,7 +3,7 @@
 # Instructions
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
-Hint: Check out the sample solution called PyCitySchools_starter.ipynb located in the .zip file to review the desired format for this assignment.
+Hint: Check out the sample solution called ``PyCitySchools_starter.ipynb`` located in the .zip file to review the desired format for this assignment.
 
 # District Summary
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
@@ -52,12 +52,12 @@ Average reading score
 % overall passing (the percentage of students who passed math AND reading)
 
 Highest-Performing Schools (by % Overall Passing)
-Sort the schools by % Overall Passing in descending order and display the top 5 rows.
+Sort the schools by ``% Overall Passing`` in descending order and display the top 5 rows.
 
 Save the results in a DataFrame called "top_schools".
 
 Lowest-Performing Schools (by % Overall Passing)
-Sort the schools by % Overall Passing in ascending order and display the top 5 rows.
+Sort the schools by ``% Overall Passing`` in ascending order and display the top 5 rows.
 
 Save the results in a DataFrame called "bottom_schools".
 
@@ -74,13 +74,13 @@ Use the code provided below to create four bins with reasonable cutoff values to
 
 <img width="581" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/f1e3e902-c61a-430b-833e-2c3d04aed153">
 
-Use pd.cut to categorize spending based on the bins.
+Use ``pd.cut`` to categorize spending based on the bins.
 
 Use the following code to then calculate mean scores per spending range.
 
 <img width="580" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/d9d5a72e-22e0-4d62-9341-deb31dfed36f">
 
-Use the scores above to create a DataFrame called spending_summary.
+Use the scores above to create a DataFrame called ``spending_summary``.
 
 Include the following metrics in the table:
 
@@ -95,7 +95,7 @@ Average reading score
 % overall passing (the percentage of students who passed math AND reading)
 
 Scores by School Size
-Use the following code to bin the per_school_summary.
+Use the following code to bin the ``per_school_summary``.
 
 <img width="576" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/ec0cead0-0d0f-4137-ba74-6d81220e465f">
 
