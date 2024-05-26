@@ -1,5 +1,8 @@
 # pandas-challenge
 
+<img width="392" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/98e3e7f0-794b-40ba-81ed-02da4eeebf6a">
+
+
 # Instructions
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
@@ -107,6 +110,18 @@ Scores by School Type
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 
 This new DataFrame should show school performance based on the "School Type".
+
+# Contact
+Thay Chansy - [@thaychansy](https://twitter.com/thaychansy) - or thay.chansy@gmail.com
+
+Please visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.io/)
+
+# Acknowledgements
+Here's a list resources we found helpful and would like to give credit to. 
+
+  
+* [Chat GPT] [ChatGPT](https://chatgpt.com/)
+* [Google Gemini] [Gemini Generative AI](https://gemini.google.com/app)
 
 
 
