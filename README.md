@@ -3,6 +3,8 @@
 <img width="392" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/98e3e7f0-794b-40ba-81ed-02da4eeebf6a">
 
 
+
+
 # Instructions
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
