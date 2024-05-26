@@ -1,6 +1,8 @@
 # pandas-challenge
 
 <img width="392" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/98e3e7f0-794b-40ba-81ed-02da4eeebf6a">
+https://github.com/thaychansy/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.pdf
+
 
 
 
