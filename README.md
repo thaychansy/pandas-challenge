@@ -2,7 +2,7 @@
 
  ## Watch the Demo!
 
-[![Watch the video](https://github.com/thaychansy/pandas-challenge/assets/161902555/67398d94-8063-439c-a3e4-9246a9dcdbdd)](https://youtu.be/D77jM03bShw
+[![Watch the video](https://github.com/thaychansy/pandas-challenge/assets/161902555/67398d94-8063-439c-a3e4-9246a9dcdbdd)](https://youtu.be/D77jM03bShw)
 
 
 
