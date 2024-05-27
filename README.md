@@ -5,6 +5,7 @@
 [![Watch the video](https://github.com/thaychansy/pandas-challenge/assets/161902555/635ea621-a2de-4e09-b6f0-d3227ab4ad49)](https://youtu.be/D77jM03bShw)
 
 
+## Link to the Juypter Notebook Report
 
 [<img width="400" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/dee84eea-6199-4ce6-a7ee-e446790cbc61">](https://github.com/thaychansy/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.ipynb)
 
