@@ -1,6 +1,13 @@
 # PySchool City District Data Analysis
 
+ ## Watch the Demo!
+
+[![Watch the video](https://github.com/thaychansy/pandas-challenge/assets/161902555/67398d94-8063-439c-a3e4-9246a9dcdbdd)](https://youtu.be/D77jM03bShw
+
+
+
 [<img width="400" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/dee84eea-6199-4ce6-a7ee-e446790cbc61">](https://github.com/thaychansy/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.ipynb)
+
 
 
 
