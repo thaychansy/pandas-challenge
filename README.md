@@ -2,7 +2,7 @@
 
  ## Watch the Demo!
 
-[![Watch the video](https://github.com/thaychansy/pandas-challenge/assets/161902555/635ea621-a2de-4e09-b6f0-d3227ab4ad49)](https://youtu.be/D77jM03bShw)
+[![Watch the video](https://github.com/thaychansy/pandas-challenge/assets/161902555/635ea621-a2de-4e09-b6f0-d3227ab4ad49)](https://youtu.be/hlydL19kR4U)
 
 
 ## Link to the Juypter Notebook Report
