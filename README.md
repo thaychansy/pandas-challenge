@@ -130,7 +130,7 @@ Thay Chansy - [@thaychansy](https://twitter.com/thaychansy) - or thay.chansy@gma
 Please visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.io/)
 
 # Acknowledgements
-Here's a list resources we found helpful and would like to give credit to. 
+Here's a list of resources we found helpful and would like to give credit to. 
 
   
 * [Chat GPT] [ChatGPT](https://chatgpt.com/)
