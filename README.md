@@ -126,7 +126,8 @@ This new DataFrame should show school performance based on the "School Type".
 # Contact
 Thay Chansy - [@thaychansy](https://twitter.com/thaychansy) - or thay.chansy@gmail.com
 
-Please visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.io/)
+Please visit my Portfolio Page: [thaychansy.github.io](https://thaychansy.github.io/)
+
 
 # Acknowledgements
 Here's a list of resources we found helpful and would like to give credit to. 
