@@ -7,7 +7,7 @@
 
 ## Link to the Juypter Notebook Report
 
-<kbd> [<img width="400" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/dee84eea-6199-4ce6-a7ee-e446790cbc61">](https://github.com/thaychansy/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.ipynb) </kbd>
+<kbd> [<img width="800" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/dee84eea-6199-4ce6-a7ee-e446790cbc61">](https://github.com/thaychansy/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.ipynb) </kbd>
 
 
 
