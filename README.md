@@ -2,12 +2,12 @@
 
  ## Watch the Demo!
 
-[![Watch the video](https://github.com/thaychansy/pandas-challenge/assets/161902555/635ea621-a2de-4e09-b6f0-d3227ab4ad49)](https://youtu.be/hlydL19kR4U)
+<kbd> [![Watch the video](https://github.com/thaychansy/pandas-challenge/assets/161902555/635ea621-a2de-4e09-b6f0-d3227ab4ad49)](https://youtu.be/hlydL19kR4U) </kbd>
 
 
 ## Link to the Juypter Notebook Report
 
-[<img width="400" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/dee84eea-6199-4ce6-a7ee-e446790cbc61">](https://github.com/thaychansy/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.ipynb)
+<kbd> [<img width="400" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/dee84eea-6199-4ce6-a7ee-e446790cbc61">](https://github.com/thaychansy/pandas-challenge/blob/main/PyCitySchools/PyCitySchools.ipynb) </kbd>
 
 
 
@@ -87,13 +87,13 @@ Create a table that breaks down school performance based on average spending ran
 
 Use the code provided below to create four bins with reasonable cutoff values to group school spending.
 
-<img width="581" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/f1e3e902-c61a-430b-833e-2c3d04aed153">
+<kbd> <img width="581" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/f1e3e902-c61a-430b-833e-2c3d04aed153"> </kbd>
 
 Use ``pd.cut`` to categorize spending based on the bins.
 
 Use the following code to then calculate mean scores per spending range.
 
-<img width="580" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/d9d5a72e-22e0-4d62-9341-deb31dfed36f">
+<kbd> <img width="580" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/d9d5a72e-22e0-4d62-9341-deb31dfed36f"> </kbd>
 
 Use the scores above to create a DataFrame called ``spending_summary``.
 
@@ -112,9 +112,9 @@ Average reading score
 Scores by School Size
 Use the following code to bin the ``per_school_summary``.
 
-<img width="576" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/ec0cead0-0d0f-4137-ba74-6d81220e465f">
+<kbd> <img width="576" alt="image" src="https://github.com/thaychansy/pandas-challenge/assets/161902555/ec0cead0-0d0f-4137-ba74-6d81220e465f"> </kbd>
 
-Use pd.cut on the "Total Students" column of the per_school_summary DataFrame.
+Use `pd.cut` on the "Total Students" column of the per_school_summary DataFrame.
 
 Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
 
